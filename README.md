@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,ubuntu,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,ubuntu,vscode,arduino" />
   </a>
 </p>
 
@@ -26,6 +26,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,aws" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,aws" />
   </a>
 </p>
