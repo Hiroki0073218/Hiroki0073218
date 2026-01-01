@@ -1,12 +1,12 @@
-# 🎈 Hiroki 🎈
-
-![image](https://github.com/user-attachments/assets/6e9ae511-6a19-41bc-a613-f4103e5ca554)
-
-Hi, I'm an IT Engineer
+## 🎈 Hi!, I'm Hiroki 🎈
 
 ## About me
 
 :construction: [on construction] :construction:
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Hiroki0073218/Hiroki0073218/output/github-contribution-grid-snake.svg" />
+</div>
 
 ## GitHub Activities
 
@@ -14,18 +14,18 @@ Hi, I'm an IT Engineer
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hiroki0073218&theme=tokyonight&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-bg=true)](https://github.com/Hiroki0073218)
 
-### Skills
+## Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,git,githubactions,github,docker,react,lua,java,ansible,ubuntu,pnpm,aws,notion,mysql" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,ubuntu,vscode" />
   </a>
 </p>
 
-### Studying
+## Studying
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,vite,cloudflare,remix" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,aws" />
   </a>
 </p>
