@@ -10,7 +10,7 @@ Hi, I'm an IT Engineer
 
 ## GitHub Activities
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiroki0073218&theme=dark&layout=compact)](https://github.com/Hiroki0073218)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiroki0073218&theme=dark&layout=compact&cache_seconds=21600)](https://github.com/Hiroki0073218)
 
 ![trophy](https://github-readme-stats.vercel.app/api?username=Hiroki0073218&show_icons=true&theme=dark&count_private=true&line_height=40)
 
