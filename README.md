@@ -12,7 +12,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiroki0073218&theme=dark&layout=compact&cache_seconds=21600)](https://github.com/Hiroki0073218)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hiroki0073218&theme=tokyonight&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-bg=true)](https://github.com/Hiroki0073218)
+[![github stats](https://github-readme-stats.vercel.app/?username=Hiroki0073218&theme=vue-dark&layout=compact")](https://github.com/Hiroki0073218)
 
 ## Skills
 
