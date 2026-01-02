@@ -1,4 +1,13 @@
-## 🎈 Hi!, I'm Hiroki 🎈
+## 🎈 Welcome My Page! 🎈
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=150&section=header&animation=twinkling" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=1E3A8A&center=true&vCenter=true&width=600&lines=Hey+there!+I%27m+Hiroki+%F0%9F%91%8B" alt="Typing SVG" />
+</div>
+
 
 ## About me
 
